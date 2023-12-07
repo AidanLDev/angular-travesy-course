@@ -19,15 +19,15 @@
       "reminder": false
     },
     {
-      "id": 4,
-      "text": "Dodgy thing",
-      "day": "May 7th at 12:30pm",
-      "reminder": true
-    },
-    {
       "id": 763980,
       "text": "Great stuff",
       "day": "May 19th at 1:30am",
+      "reminder": true
+    },
+    {
+      "id": 695869,
+      "text": "Doing something unholy",
+      "day": "August 2022",
       "reminder": true
     }
   ]
